@@ -54,7 +54,8 @@ We welcome contributions from the community! If you have tips, tricks, or exampl
 
 Let's explore the world of data visualization together with Plotly! Happy coding and happy plotting!
 
-![[Plotly Logo](https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly_logo_for_digital_final_%286%29.png)](https://plotly.com/assets/images/plotly-logo-2017.svg)
+![Plotly Logo](https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly_logo_for_digital_final_%286%29.png)
+
 
 ---
 
